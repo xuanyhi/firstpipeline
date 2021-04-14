@@ -1,4 +1,7 @@
+
 name: local
+server:
+  port: 8088
 
 ---
 spring:
