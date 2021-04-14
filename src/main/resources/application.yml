@@ -1,0 +1,13 @@
+name: local
+
+---
+spring:
+  profiles: prod
+
+name: prod
+
+---
+spring:
+  profiles: test
+
+name: test
